@@ -17,6 +17,9 @@ Student developer from Kolkata, building fast with AI-first workflows. I ship id
 | **[Aerial Insight](https://github.com/aayushomarora-pixel/aerial-insight)** | AI vision over satellite imagery to detect, count, and summarize geographic features |
 | **[Hero Matchup](https://github.com/aayushomarora-pixel/hero-matchup)** | Comic-inspired superhero search, comparison & personality quiz |
 | **[Voice Command Console](https://github.com/aayushomarora-pixel/voice-command-console)** | Voice-first console: open sites, take notes, search, set reminders — hands-free |
+| **[esports-elo](https://github.com/aayushomarora-pixel/esports-elo)** | Zero-dependency TypeScript rating engine: Elo + Glicko-2 with leaderboards, tested against the original paper |
+| **[vibe-log](https://github.com/aayushomarora-pixel/vibe-log)** | Zero-dependency pretty console logger: levels, scopes, JSON mode, good vibes |
+| **[awesome-vibe-coding](https://github.com/aayushomarora-pixel/awesome-vibe-coding)** | Curated list of tools, guides & workflows for building software with AI |
 
 ### 🛠️ Stack
 
